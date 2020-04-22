@@ -1,1 +1,8 @@
-//comentario de prueba
+
+.oculta{
+display:none;
+}
+/* No añadir bajo ningun concento en mostra BLOCK deformara la tabla * --Joaquin */
+.mostra{
+display:;
+}
