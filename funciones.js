@@ -53,13 +53,55 @@
 
         }
 
-        function idioma(argument){
+       function idioma(argument){
+//Pilla el elemento de seleccion
+var elementoSeleccion = document.getElementById('selection');
+// selecciona el valor de la seleccion
+var selectedValue = elementoSeleccion.options[elementoSeleccion.selectedIndex].value;
+//muestra el valor de la seleccion
+alert(selectedValue);
+
+// estructura if para cambiar los valores
+if (selectedValue == 'Valenciano') {
+   alert("vamos a cambiar las clases a Valenciano para mostrarlas");
+   /*Buscamos los elementos que en la clase incluyan "Valenciano" !Importante declaramos
+    fuera del for porque no lo identifica */
+   var elementosValenciano = document.getElementsByClassName("Valenciano");
+/*Creamos la variable i que nos hara la funcion de contador que aumentamos con i++
+y debara ser menor que el largo del array de Elementosvalenciano*/
+for(var i=0;i<elementosValenciano.length;i++)
+//Cambiaremos la clase de todos los elementos guardados en el array recorriendo i (bucle de arriba)
+elementosValenciano[i].setAttribute("class","Valenciano mostra");
+
+   /*Buscamos los elementos que en la clase incluyan "Castellano"*/
+   var elementosCastellano = document.getElementsByClassName("Castellano");
+   /*Creamos la variable i que nos hara la funcion de contador que aumentamos con i++
+y debara ser menor que el largo del array de ElementosCastellano*/
+for(var i=0;i<elementosCastellano.length;i++)
+//Cambiaremos la clase de todos los elementos guardados en el array recorriendo i (bucle de arriba)
+
+elementosCastellano[i].setAttribute("class","Castellano oculta");
 
 
+} else {
+   alert("vamos a cambiar las clases a Castellano");
+     /*Buscamos los elementos que en la clase incluyan "Castellano" !Importante declaramos
+    fuera del for porque no lo identifica */
+   var elementosCastellano = document.getElementsByClassName("Castellano");
+/*Creamos la variable i que nos hara la funcion de contador que aumentamos con i++
+y debara ser menor que el largo del array de ElementosCastellano*/
+for(var i=0;i<elementosCastellano.length;i++)
+//Cambiaremos la clase de todos los elementos guardados en el array recorriendo i (bucle de arriba)
+elementosCastellano[i].setAttribute("class","Castellano mostra");
 
+   /*Buscamos los elementos que en la clase incluyan "Valenciano"*/
+   var elementosValenciano = document.getElementsByClassName("Valenciano");
+   /*Creamos la variable i que nos hara la funcion de contador que aumentamos con i++
+y debara ser menor que el largo del array de ElementosValenciano*/
+for(var i=0;i<elementosValenciano.length;i++)
+//Cambiaremos la clase de todos los elementos guardados en el array recorriendo i (bucle de arriba)
 
+elementosValenciano[i].setAttribute("class","Valenciano oculta");
+}
 
-
-
-            
-        }
+}
