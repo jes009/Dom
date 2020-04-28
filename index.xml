@@ -368,5 +368,727 @@
 
     <!-- Asia -->
 
+    <continente>
+        <nombre>Asia</nombre>
+        <anyo>1954</anyo>
+        <casos>1645</casos>
+        <muertes>663</muertes>
+        <tasamortalidad>40,3%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>Asia</nombre>
+        <anyo>1955</anyo>
+        <casos>1112</casos>
+        <muertes>220</muertes>
+        <tasamortalidad>19,78%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>Asia</nombre>
+        <anyo>1956</anyo>
+        <casos>686</casos>
+        <muertes>209</muertes>
+        <tasamortalidad>30,46%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>Asia</nombre>
+        <anyo>1957</anyo>
+        <casos>411</casos>
+        <muertes>162</muertes>
+        <tasamortalidad>39,41%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>Asia</nombre>
+        <anyo>1958</anyo>
+        <casos>309</casos>
+        <muertes>214</muertes>
+        <tasamortalidad>69,25%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>Asia</nombre>
+        <anyo>1959</anyo>
+        <casos>253</casos>
+        <muertes>180</muertes>
+        <tasamortalidad>71,14%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>Asia</nombre>
+        <anyo>1960</anyo>
+        <casos>163</casos>
+        <muertes>26</muertes>
+        <tasamortalidad>15,95%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>Asia</nombre>
+        <anyo>1961</anyo>
+        <casos>456</casos>
+        <muertes>60</muertes>
+        <tasamortalidad>13,15%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>Asia</nombre>
+        <anyo>1962</anyo>
+        <casos>794</casos>
+        <muertes>97</muertes>
+        <tasamortalidad>12,21%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>Asia</nombre>
+        <anyo>1963</anyo>
+        <casos>380</casos>
+        <muertes>55</muertes>
+        <tasamortalidad>14,47%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>Asia</nombre>
+        <anyo>1964</anyo>
+        <casos>406</casos>
+        <muertes>64</muertes>
+        <tasamortalidad>15,76%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>Asia</nombre>
+        <anyo>1965</anyo>
+        <casos>418</casos>
+        <muertes>50</muertes>
+        <tasamortalidad>11,96%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>Asia</nombre>
+        <anyo>1966</anyo>
+        <casos>2903</casos>
+        <muertes>156</muertes>
+        <tasamortalidad>5,37%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>Asia</nombre>
+        <anyo>1967</anyo>
+        <casos>5769</casos>
+        <muertes>294</muertes>
+        <tasamortalidad>0,05%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>Asia</nombre>
+        <anyo>1968</anyo>
+        <casos>4394</casos>
+        <muertes>273</muertes>
+        <tasamortalidad>6,21%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>Asia</nombre>
+        <anyo>1969</anyo>
+        <casos>3886</casos>
+        <muertes>161</muertes>
+        <tasamortalidad>4,14%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>Asia</nombre>
+        <anyo>1970</anyo>
+        <casos>4109</casos>
+        <muertes>82</muertes>
+        <tasamortalidad>1,95%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>Asia</nombre>
+        <anyo>1971</anyo>
+        <casos>4186</casos>
+        <muertes>165</muertes>
+        <tasamortalidad>3,94%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>Asia</nombre>
+        <anyo>1972</anyo>
+        <casos>1408</casos>
+        <muertes>66</muertes>
+        <tasamortalidad>4,68%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>Asia</nombre>
+        <anyo>1973</anyo>
+        <casos>443</casos>
+        <muertes>39</muertes>
+        <tasamortalidad>8,8%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>Asia</nombre>
+        <anyo>1974</anyo>
+        <casos>2252</casos>
+        <muertes>153</muertes>
+        <tasamortalidad>6,79%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>Asia</nombre>
+        <anyo>1975</anyo>
+        <casos>811</casos>
+        <muertes>52</muertes>
+        <tasamortalidad>6,41%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>Asia</nombre>
+        <anyo>1976</anyo>
+        <casos>1266</casos>
+        <muertes>60</muertes>
+        <tasamortalidad>4,73%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>Asia</nombre>
+        <anyo>1977</anyo>
+        <casos>1258</casos>
+        <muertes>26</muertes>
+        <tasamortalidad>2,06%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>Asia</nombre>
+        <anyo>1978</anyo>
+        <casos>485</casos>
+        <muertes>14</muertes>
+        <tasamortalidad>2,88%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>Asia</nombre>
+        <anyo>1979</anyo>
+        <casos>387</casos>
+        <muertes>16</muertes>
+        <tasamortalidad>4,13%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>Asia</nombre>
+        <anyo>1980</anyo>
+        <casos>285</casos>
+        <muertes>29</muertes>
+        <tasamortalidad>10,17%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>Asia</nombre>
+        <anyo>1981</anyo>
+        <casos>13</casos>
+        <muertes>0</muertes>
+        <tasamortalidad>0%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>Asia</nombre>
+        <anyo>1982</anyo>
+        <casos>281</casos>
+        <muertes>1</muertes>
+        <tasamortalidad>0,35%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>Asia</nombre>
+        <anyo>1983</anyo>
+        <casos>248</casos>
+        <muertes>21</muertes>
+        <tasamortalidad>8,46%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>Asia</nombre>
+        <anyo>1984</anyo>
+        <casos>206</casos>
+        <muertes>6</muertes>
+        <tasamortalidad>2,91%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>Asia</nombre>
+        <anyo>1985</anyo>
+        <casos>179</casos>
+        <muertes>8</muertes>
+        <tasamortalidad>4,46%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>Asia</nombre>
+        <anyo>1986</anyo>
+        <casos>118</casos>
+        <muertes>6</muertes>
+        <tasamortalidad>5,08%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>Asia</nombre>
+        <anyo>1987</anyo>
+        <casos>119</casos>
+        <muertes>8</muertes>
+        <tasamortalidad>6,72%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>Asia</nombre>
+        <anyo>1988</anyo>
+        <casos>210</casos>
+        <muertes>10</muertes>
+        <tasamortalidad>4,76%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>Asia</nombre>
+        <anyo>1989</anyo>
+        <casos>425</casos>
+        <muertes>49</muertes>
+        <tasamortalidad>11,52%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>Asia</nombre>
+        <anyo>1990</anyo>
+        <casos>505</casos>
+        <muertes>29</muertes>
+        <tasamortalidad>5,74%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>Asia</nombre>
+        <anyo>1991</anyo>
+        <casos>227</casos>
+        <muertes>15</muertes>
+        <tasamortalidad>6,6%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>Asia</nombre>
+        <anyo>1992</anyo>
+        <casos>1012</casos>
+        <muertes>30</muertes>
+        <tasamortalidad>2,96%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>Asia</nombre>
+        <anyo>1993</anyo>
+        <casos>605</casos>
+        <muertes>28</muertes>
+        <tasamortalidad>4,62%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>Asia</nombre>
+        <anyo>1994</anyo>
+        <casos>1228</casos>
+        <muertes>85</muertes>
+        <tasamortalidad>6,92%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>Asia</nombre>
+        <anyo>1995</anyo>
+        <casos>186</casos>
+        <muertes>11</muertes>
+        <tasamortalidad>5,91%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>Asia</nombre>
+        <anyo>1996</anyo>
+        <casos>386</casos>
+        <muertes>26</muertes>
+        <tasamortalidad>6,73%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>Asia</nombre>
+        <anyo>1997</anyo>
+        <casos>274</casos>
+        <muertes>12</muertes>
+        <tasamortalidad>4,37%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>Asia</nombre>
+        <anyo>1998</anyo>
+        <casos>8</casos>
+        <muertes>5</muertes>
+        <tasamortalidad>62,5%</tasamortalidad>
+    </continente>
+
+    <!-- Las Americas -->
+
+    <continente>
+        <nombre>America</nombre>
+        <anyo>1954</anyo>
+        <casos>171</casos>
+        <muertes>0</muertes>
+        <tasamortalidad>0%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>America</nombre>
+        <anyo>1955</anyo>
+        <casos>171</casos>
+        <muertes>91</muertes>
+        <tasamortalidad>53,22%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>America</nombre>
+        <anyo>1956</anyo>
+        <casos>115</casos>
+        <muertes>0</muertes>
+        <tasamortalidad>0%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>America</nombre>
+        <anyo>1957</anyo>
+        <casos>154</casos>
+        <muertes>0</muertes>
+        <tasamortalidad>0%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>America</nombre>
+        <anyo>1958</anyo>
+        <casos>98</casos>
+        <muertes>0</muertes>
+        <tasamortalidad>0%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>America</nombre>
+        <anyo>1959</anyo>
+        <casos>93</casos>
+        <muertes>0</muertes>
+        <tasamortalidad>0%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>America</nombre>
+        <anyo>1960</anyo>
+        <casos>258</casos>
+        <muertes>0</muertes>
+        <tasamortalidad>0%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>America</nombre>
+        <anyo>1961</anyo>
+        <casos>343</casos>
+        <muertes>40</muertes>
+        <tasamortalidad>11,66%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>America</nombre>
+        <anyo>1962</anyo>
+        <casos>527</casos>
+        <muertes>44</muertes>
+        <tasamortalidad></tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>America</nombre>
+        <anyo>1963</anyo>
+        <casos>424</casos>
+        <muertes>54</muertes>
+        <tasamortalidad>12,74%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>America</nombre>
+        <anyo>1964</anyo>
+        <casos>653</casos>
+        <muertes>42</muertes>
+        <tasamortalidad>6,43%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>America</nombre>
+        <anyo>1965</anyo>
+        <casos>841</casos>
+        <muertes>26</muertes>
+        <tasamortalidad>3,09%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>America</nombre>
+        <anyo>1966</anyo>
+        <casos>889</casos>
+        <muertes>54</muertes>
+        <tasamortalidad>6,07%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>America</nombre>
+        <anyo>1967</anyo>
+        <casos>223</casos>
+        <muertes>14</muertes>
+        <tasamortalidad>6,28%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>America</nombre>
+        <anyo>1968</anyo>
+        <casos>387</casos>
+        <muertes>33</muertes>
+        <tasamortalidad>8,53%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>America</nombre>
+        <anyo>1969</anyo>
+        <casos>424</casos>
+        <muertes>30</muertes>
+        <tasamortalidad>7,08%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>America</nombre>
+        <anyo>1970</anyo>
+        <casos>326</casos>
+        <muertes>19</muertes>
+        <tasamortalidad>5,83%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>America</nombre>
+        <anyo>1971</anyo>
+        <casos>216</casos>
+        <muertes>10</muertes>
+        <tasamortalidad>4,63%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>America</nombre>
+        <anyo>1972</anyo>
+        <casos>297</casos>
+        <muertes>28</muertes>
+        <tasamortalidad>9,43%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>America</nombre>
+        <anyo>1973</anyo>
+        <casos>185</casos>
+        <muertes>3</muertes>
+        <tasamortalidad>1,62%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>America</nombre>
+        <anyo>1974</anyo>
+        <casos>321</casos>
+        <muertes>8</muertes>
+        <tasamortalidad>2,49%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>America</nombre>
+        <anyo>1975</anyo>
+        <casos>521</casos>
+        <muertes>9</muertes>
+        <tasamortalidad>1,73%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>America</nombre>
+        <anyo>1976</anyo>
+        <casos>146</casos>
+        <muertes>9</muertes>
+        <tasamortalidad>6,16%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>America</nombre>
+        <anyo>1977</anyo>
+        <casos>48</casos>
+        <muertes>11</muertes>
+        <tasamortalidad>22,92%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>America</nombre>
+        <anyo>1978</anyo>
+        <casos>97</casos>
+        <muertes>5</muertes>
+        <tasamortalidad>5,15%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>America</nombre>
+        <anyo>1979</anyo>
+        <casos>23</casos>
+        <muertes>2</muertes>
+        <tasamortalidad>8,7%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>America</nombre>
+        <anyo>1980</anyo>
+        <casos>142</casos>
+        <muertes>7</muertes>
+        <tasamortalidad>4,93%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>America</nombre>
+        <anyo>1981</anyo>
+        <casos>128</casos>
+        <muertes>12</muertes>
+        <tasamortalidad>9,38%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>America</nombre>
+        <anyo>1982</anyo>
+        <casos>182</casos>
+        <muertes>4</muertes>
+        <tasamortalidad>2,2%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>America</nombre>
+        <anyo>1983</anyo>
+        <casos>225</casos>
+        <muertes>12</muertes>
+        <tasamortalidad>5,33%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>America</nombre>
+        <anyo>1984</anyo>
+        <casos>500</casos>
+        <muertes>42</muertes>
+        <tasamortalidad>8,4%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>America</nombre>
+        <anyo>1985</anyo>
+        <casos>128</casos>
+        <muertes>9</muertes>
+        <tasamortalidad>7,03%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>America</nombre>
+        <anyo>1986</anyo>
+        <casos>162</casos>
+        <muertes>19</muertes>
+        <tasamortalidad>11,73%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>America</nombre>
+        <anyo>1987</anyo>
+        <casos>88</casos>
+        <muertes>9</muertes>
+        <tasamortalidad>10,23%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>America</nombre>
+        <anyo>1988</anyo>
+        <casos>52</casos>
+        <muertes>5</muertes>
+        <tasamortalidad>9,62%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>America</nombre>
+        <anyo>1989</anyo>
+        <casos>30</casos>
+        <muertes>0</muertes>
+        <tasamortalidad>0%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>America</nombre>
+        <anyo>1990</anyo>
+        <casos>48</casos>
+        <muertes>6</muertes>
+        <tasamortalidad>12,5%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>America</nombre>
+        <anyo>1991</anyo>
+        <casos>21</casos>
+        <muertes>0</muertes>
+        <tasamortalidad>0%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>America</nombre>
+        <anyo>1992</anyo>
+        <casos>158</casos>
+        <muertes>6</muertes>
+        <tasamortalidad>3,8%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>America</nombre>
+        <anyo>1993</anyo>
+        <casos>621</casos>
+        <muertes>32</muertes>
+        <tasamortalidad>5,15%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>America</nombre>
+        <anyo>1994</anyo>
+        <casos>438</casos>
+        <muertes>21</muertes>
+        <tasamortalidad>4,79%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>America</nombre>
+        <anyo>1995</anyo>
+        <casos>115</casos>
+        <muertes>3</muertes>
+        <tasamortalidad>2,61%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>America</nombre>
+        <anyo>1996</anyo>
+        <casos>55</casos>
+        <muertes>6</muertes>
+        <tasamortalidad>10,91%</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>America</nombre>
+        <anyo>1997</anyo>
+        <casos>44</casos>
+        <muertes>1</muertes>
+        <tasamortalidad>2,27</tasamortalidad>
+    </continente>
+
+    <continente>
+        <nombre>America</nombre>
+        <anyo>1998</anyo>
+        <casos>27</casos>
+        <muertes>11</muertes>
+        <tasamortalidad>40,74%</tasamortalidad>
+    </continente>
+
 
 </epidemia>
