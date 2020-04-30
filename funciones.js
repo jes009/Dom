@@ -34,7 +34,7 @@
 
                 if (found) {
 
-                    tabla.rows[i].setAttribute('class', 'mostra');;
+                    tabla.rows[i].setAttribute('class', 'mostratabla');;
 
                 } else {
 
@@ -90,7 +90,7 @@
 
                 if (found) {
 
-                    tabla.rows[i].setAttribute('class', 'mostra');;
+                    tabla.rows[i].setAttribute('class', 'mostratabla');;
 
                 } else {
 
