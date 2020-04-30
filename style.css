@@ -10,3 +10,6 @@ display:;
 table, th, td {
   border: 1px solid black;
 }
+.redondeado {
+   border-radius: 5px;
+ }
