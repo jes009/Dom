@@ -20,11 +20,7 @@
        
         <div id="cabecera">
            
-		   <div id="arriba">
-
-              <a href="index.xml"> <img  src="img/boton.png" class="imagen" alt="Botón"/> </a> <!-- cambiar imagenc -->
-
-            </div>
+		
 
 			<div id="registrar">
 				<p> Selecione el idioma: 
