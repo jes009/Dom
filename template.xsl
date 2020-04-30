@@ -16,7 +16,7 @@
 
 <!-- Cambiar el idioma de los contenidos -->
 <div>
-	<select id="elementSelect" onchange="idioma();">
+	<select id="selection" onchange="idioma();">
  		<option value="Valenciano">Valenciano</option>
 		<option value="Castellano">Castellano</option>
 	</select>
@@ -35,7 +35,7 @@
 
 <!-- Buscara en la tabla con Idioma en Castellano -->
 <div class="Castellano">
-	<input type="button" value="Buscar" onclick="SearchSp();" />
+	<input type="button" value="Buscar" class="Castellano oculta" onclick="SearchSp();" />
 </div>
 
 
@@ -54,7 +54,7 @@
 </div>
 
 <!-- Tabla en Castellano -->
-<div class="Castellano">
+<div class="Castellano oculta">
 	<table id="tablasp">
 		<tr>
    			<th>Nombre</th>
