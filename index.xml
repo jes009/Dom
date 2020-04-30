@@ -8,7 +8,6 @@
 
     <continente>
         <nombre>Africa</nombre>
-        <imagen>africa.jpg</imagen>
         <anyo>1954</anyo>
         <casos>110</casos>
         <muertes>0</muertes>
@@ -17,7 +16,6 @@
 
     <continente>
         <nombre>Africa</nombre>
-        <imagen>africa.jpg</imagen>
         <anyo>1955</anyo>
         <casos>79</casos>
         <muertes>5</muertes>
@@ -26,7 +24,6 @@
 
     <continente>
         <nombre>Africa</nombre>
-        <imagen>africa.jpg</imagen>
         <anyo>1956</anyo>
         <casos>107</casos>
         <muertes>6</muertes>
@@ -35,7 +32,6 @@
 
     <continente>
         <nombre>Africa</nombre>
-        <imagen>africa.jpg</imagen>
         <anyo>1957</anyo>
         <casos>108</casos>
         <muertes>0</muertes>
@@ -44,7 +40,6 @@
 
     <continente>
         <nombre>Africa</nombre>
-        <imagen>africa.jpg</imagen>
         <anyo>1958</anyo>
         <casos>50</casos>
         <muertes>27</muertes>
@@ -53,7 +48,6 @@
 
     <continente>
         <nombre>Africa</nombre>
-        <imagen>africa.jpg</imagen>
         <anyo>1959</anyo>
         <casos>43</casos>
         <muertes>16</muertes>
@@ -62,7 +56,6 @@
 
     <continente>
         <nombre>Africa</nombre>
-        <imagen>africa.jpg</imagen>
         <anyo>1560</anyo>
         <casos>69</casos>
         <muertes>4</muertes>
@@ -71,7 +64,6 @@
 
     <continente>
         <nombre>Africa</nombre>
-        <imagen>africa.jpg</imagen>
         <anyo>1961</anyo>
         <casos>24</casos>
         <muertes>14</muertes>
@@ -80,7 +72,6 @@
 
     <continente>
         <nombre>Africa</nombre>
-        <imagen>africa.jpg</imagen>
         <anyo>1962</anyo>
         <casos>120</casos>
         <muertes>18</muertes>
@@ -89,7 +80,6 @@
 
     <continente>
         <nombre>Africa</nombre>
-        <imagen>africa.jpg</imagen>
         <anyo>1963</anyo>
         <casos>53</casos>
         <muertes>15</muertes>
@@ -98,7 +88,6 @@
 
     <continente>
         <nombre>Africa</nombre>
-        <imagen>africa.jpg</imagen>
         <anyo>1964</anyo>
         <casos>541</casos>
         <muertes>14</muertes>
@@ -107,7 +96,6 @@
 
     <continente>
         <nombre>Africa</nombre>
-        <imagen>africa.jpg</imagen>
         <anyo>1965</anyo>
         <casos>49</casos>
         <muertes>12</muertes>
@@ -116,7 +104,6 @@
 
     <continente>
         <nombre>Africa</nombre>
-        <imagen>africa.jpg</imagen>
         <anyo>1966</anyo>
         <casos>19</casos>
         <muertes>6</muertes>
@@ -125,7 +112,6 @@
 
     <continente>
         <nombre>Africa</nombre>
-        <imagen>africa.jpg</imagen>
         <anyo>1967</anyo>
         <casos>22</casos>
         <muertes>8</muertes>
@@ -134,7 +120,6 @@
 
     <continente>
         <nombre>Africa</nombre>
-        <imagen>africa.jpg</imagen>
         <anyo>1968</anyo>
         <casos>248</casos>
         <muertes>84</muertes>
@@ -143,7 +128,6 @@
 
     <continente>
         <nombre>Africa</nombre>
-        <imagen>africa.jpg</imagen>
         <anyo>1969</anyo>
         <casos>147</casos>
         <muertes>32</muertes>
@@ -152,7 +136,6 @@
 
     <continente>
         <nombre>Africa</nombre>
-        <imagen>africa.jpg</imagen>
         <anyo>1970</anyo>
         <casos>32</casos>
         <muertes>5</muertes>
@@ -161,7 +144,6 @@
 
     <continente>
         <nombre>Africa</nombre>
-        <imagen>africa.jpg</imagen>
         <anyo>1971</anyo>
         <casos>37</casos>
         <muertes>9</muertes>
@@ -170,7 +152,6 @@
 
     <continente>
         <nombre>Africa</nombre>
-        <imagen>africa.jpg</imagen>
         <anyo>1972</anyo>
         <casos>128</casos>
         <muertes>41</muertes>
@@ -179,7 +160,6 @@
 
     <continente>
         <nombre>Africa</nombre>
-        <imagen>africa.jpg</imagen>
         <anyo>1973</anyo>
         <casos>56</casos>
         <muertes>8</muertes>
@@ -188,7 +168,6 @@
     
     <continente>
         <nombre>Africa</nombre>
-        <imagen>africa.jpg</imagen>
         <anyo>1974</anyo>
         <casos>183</casos>
         <muertes>25</muertes>
@@ -197,7 +176,6 @@
 
     <continente>
         <nombre>Africa</nombre>
-        <imagen>africa.jpg</imagen>
         <anyo>1975</anyo>
         <casos>147</casos>
         <muertes>41</muertes>
@@ -206,7 +184,6 @@
 
     <continente>
         <nombre>Africa</nombre>
-        <imagen>africa.jpg</imagen>
         <anyo>1976</anyo>
         <casos>93</casos>
         <muertes>35</muertes>
@@ -215,7 +192,6 @@
 
     <continente>
         <nombre>Africa</nombre>
-        <imagen>africa.jpg</imagen>
         <anyo>1977</anyo>
         <casos>172</casos>
         <muertes>41</muertes>
@@ -224,7 +200,6 @@
 
         <continente>
         <nombre>Africa</nombre>
-        <imagen>africa.jpg</imagen>
         <anyo>1978</anyo>
         <casos>203</casos>
         <muertes>15</muertes>
@@ -233,7 +208,6 @@
 
     <continente>
         <nombre>Africa</nombre>
-        <imagen>africa.jpg</imagen>
         <anyo>1979</anyo>
         <casos>251</casos>
         <muertes>15</muertes>
@@ -242,7 +216,6 @@
 
     <continente>
         <nombre>Africa</nombre>
-        <imagen>africa.jpg</imagen>
         <anyo>1980</anyo>
         <casos>86</casos>
         <muertes>22</muertes>
@@ -251,7 +224,6 @@
 
     <continente>
         <nombre>Africa</nombre>
-        <imagen>africa.jpg</imagen>
         <anyo>1981</anyo>
         <casos>59</casos>
         <muertes>19</muertes>
@@ -260,7 +232,6 @@
 
     <continente>
         <nombre>Africa</nombre>
-        <imagen>africa.jpg</imagen>
         <anyo>1982</anyo>
         <casos>290</casos>
         <muertes>43</muertes>
@@ -269,7 +240,6 @@
 
     <continente>
         <nombre>Africa</nombre>
-        <imagen>africa.jpg</imagen>
         <anyo>1983</anyo>
         <casos>594</casos>
         <muertes>59</muertes>
@@ -278,7 +248,6 @@
 
     <continente>
         <nombre>Africa</nombre>
-        <imagen>africa.jpg</imagen>
         <anyo>1984</anyo>
         <casos>650</casos>
         <muertes>59</muertes>
@@ -287,7 +256,6 @@
 
     <continente>
         <nombre>Africa</nombre>
-        <imagen>africa.jpg</imagen>
         <anyo>1985</anyo>
         <casos>215</casos>
         <muertes>41</muertes>
@@ -296,7 +264,6 @@
 
     <continente>
         <nombre>Africa</nombre>
-        <imagen>africa.jpg</imagen>
         <anyo>1986</anyo>
         <casos>729</casos>
         <muertes>90</muertes>
@@ -305,7 +272,6 @@
 
     <continente>
         <nombre>Africa</nombre>
-        <imagen>africa.jpg</imagen>
         <anyo>1987</anyo>
         <casos>854</casos>
         <muertes>198</muertes>
@@ -314,7 +280,6 @@
 
     <continente>
         <nombre>Africa</nombre>
-        <imagen>africa.jpg</imagen>
         <anyo>1988</anyo>
         <casos>1109</casos>
         <muertes>138</muertes>
@@ -323,7 +288,6 @@
 
     <continente>
         <nombre>Africa</nombre>
-        <imagen>africa.jpg</imagen>
         <anyo>1989</anyo>
         <casos>305</casos>
         <muertes>54</muertes>
@@ -332,7 +296,6 @@
 
     <continente>
         <nombre>Africa</nombre>
-        <imagen>africa.jpg</imagen>
         <anyo>1990</anyo>
         <casos>704</casos>
         <muertes>98</muertes>
@@ -341,7 +304,6 @@
 
     <continente>
         <nombre>Africa</nombre>
-        <imagen>africa.jpg</imagen>
         <anyo>1991</anyo>
         <casos>1719</casos>
         <muertes>118</muertes>
@@ -350,7 +312,6 @@
 
     <continente>
         <nombre>Africa</nombre>
-        <imagen>africa.jpg</imagen>
         <anyo>1992</anyo>
         <casos>604</casos>
         <muertes>168</muertes>
@@ -359,7 +320,6 @@
 
     <continente>
         <nombre>Africa</nombre>
-        <imagen>africa.jpg</imagen>
         <anyo>1993</anyo>
         <casos>968</casos>
         <muertes>130</muertes>
@@ -368,7 +328,6 @@
 
     <continente>
         <nombre>Africa</nombre>
-        <imagen>africa.jpg</imagen>
         <anyo>1994</anyo>
         <casos>1269</casos>
         <muertes>106</muertes>
@@ -377,7 +336,6 @@
 
     <continente>
         <nombre>Africa</nombre>
-        <imagen>africa.jpg</imagen>
         <anyo>1995</anyo>
         <casos>2560</casos>
         <muertes>123</muertes>
@@ -386,7 +344,6 @@
 
     <continente>
         <nombre>Africa</nombre>
-        <imagen>africa.jpg</imagen>
         <anyo>1996</anyo>
         <casos>2576</casos>
         <muertes>173</muertes>
@@ -395,7 +352,6 @@
 
     <continente>
         <nombre>Africa</nombre>
-        <imagen>africa.jpg</imagen>
         <anyo>1997</anyo>
         <casos>5101</casos>
         <muertes>261</muertes>
@@ -404,7 +360,6 @@
 
     <continente>
         <nombre>Africa</nombre>
-        <imagen>africa.jpg</imagen>
         <anyo>1998</anyo>
         <casos>1161</casos>
         <muertes>61</muertes>
@@ -415,7 +370,6 @@
 
     <continente>
         <nombre>Asia</nombre>
-        <imagen>asia.jpg</imagen>
         <anyo>1954</anyo>
         <casos>1645</casos>
         <muertes>663</muertes>
@@ -424,7 +378,6 @@
 
     <continente>
         <nombre>Asia</nombre>
-        <imagen>asia.jpg</imagen>
         <anyo>1955</anyo>
         <casos>1112</casos>
         <muertes>220</muertes>
@@ -433,7 +386,6 @@
 
     <continente>
         <nombre>Asia</nombre>
-        <imagen>asia.jpg</imagen>
         <anyo>1956</anyo>
         <casos>686</casos>
         <muertes>209</muertes>
@@ -442,7 +394,6 @@
 
     <continente>
         <nombre>Asia</nombre>
-        <imagen>asia.jpg</imagen>
         <anyo>1957</anyo>
         <casos>411</casos>
         <muertes>162</muertes>
@@ -451,7 +402,6 @@
 
     <continente>
         <nombre>Asia</nombre>
-        <imagen>asia.jpg</imagen>
         <anyo>1958</anyo>
         <casos>309</casos>
         <muertes>214</muertes>
@@ -460,7 +410,6 @@
 
     <continente>
         <nombre>Asia</nombre>
-        <imagen>asia.jpg</imagen>
         <anyo>1959</anyo>
         <casos>253</casos>
         <muertes>180</muertes>
@@ -469,7 +418,6 @@
 
     <continente>
         <nombre>Asia</nombre>
-        <imagen>asia.jpg</imagen>
         <anyo>1960</anyo>
         <casos>163</casos>
         <muertes>26</muertes>
@@ -478,7 +426,6 @@
 
     <continente>
         <nombre>Asia</nombre>
-        <imagen>asia.jpg</imagen>
         <anyo>1961</anyo>
         <casos>456</casos>
         <muertes>60</muertes>
@@ -487,7 +434,6 @@
 
     <continente>
         <nombre>Asia</nombre>
-        <imagen>asia.jpg</imagen>
         <anyo>1962</anyo>
         <casos>794</casos>
         <muertes>97</muertes>
@@ -496,7 +442,6 @@
 
     <continente>
         <nombre>Asia</nombre>
-        <imagen>asia.jpg</imagen>
         <anyo>1963</anyo>
         <casos>380</casos>
         <muertes>55</muertes>
@@ -505,7 +450,6 @@
 
     <continente>
         <nombre>Asia</nombre>
-        <imagen>asia.jpg</imagen>
         <anyo>1964</anyo>
         <casos>406</casos>
         <muertes>64</muertes>
@@ -514,7 +458,6 @@
 
     <continente>
         <nombre>Asia</nombre>
-        <imagen>asia.jpg</imagen>
         <anyo>1965</anyo>
         <casos>418</casos>
         <muertes>50</muertes>
@@ -523,7 +466,6 @@
 
     <continente>
         <nombre>Asia</nombre>
-        <imagen>asia.jpg</imagen>
         <anyo>1966</anyo>
         <casos>2903</casos>
         <muertes>156</muertes>
@@ -532,7 +474,6 @@
 
     <continente>
         <nombre>Asia</nombre>
-        <imagen>asia.jpg</imagen>
         <anyo>1967</anyo>
         <casos>5769</casos>
         <muertes>294</muertes>
@@ -541,7 +482,6 @@
 
     <continente>
         <nombre>Asia</nombre>
-        <imagen>asia.jpg</imagen>
         <anyo>1968</anyo>
         <casos>4394</casos>
         <muertes>273</muertes>
@@ -550,7 +490,6 @@
 
     <continente>
         <nombre>Asia</nombre>
-        <imagen>asia.jpg</imagen>
         <anyo>1969</anyo>
         <casos>3886</casos>
         <muertes>161</muertes>
@@ -559,7 +498,6 @@
 
     <continente>
         <nombre>Asia</nombre>
-        <imagen>asia.jpg</imagen>
         <anyo>1970</anyo>
         <casos>4109</casos>
         <muertes>82</muertes>
@@ -568,7 +506,6 @@
 
     <continente>
         <nombre>Asia</nombre>
-        <imagen>asia.jpg</imagen>
         <anyo>1971</anyo>
         <casos>4186</casos>
         <muertes>165</muertes>
@@ -577,7 +514,6 @@
 
     <continente>
         <nombre>Asia</nombre>
-        <imagen>asia.jpg</imagen>
         <anyo>1972</anyo>
         <casos>1408</casos>
         <muertes>66</muertes>
@@ -586,7 +522,6 @@
 
     <continente>
         <nombre>Asia</nombre>
-        <imagen>asia.jpg</imagen>
         <anyo>1973</anyo>
         <casos>443</casos>
         <muertes>39</muertes>
@@ -595,7 +530,6 @@
 
     <continente>
         <nombre>Asia</nombre>
-        <imagen>asia.jpg</imagen>
         <anyo>1974</anyo>
         <casos>2252</casos>
         <muertes>153</muertes>
@@ -604,7 +538,6 @@
 
     <continente>
         <nombre>Asia</nombre>
-        <imagen>asia.jpg</imagen>
         <anyo>1975</anyo>
         <casos>811</casos>
         <muertes>52</muertes>
@@ -613,7 +546,6 @@
 
     <continente>
         <nombre>Asia</nombre>
-        <imagen>asia.jpg</imagen>
         <anyo>1976</anyo>
         <casos>1266</casos>
         <muertes>60</muertes>
@@ -622,7 +554,6 @@
 
     <continente>
         <nombre>Asia</nombre>
-        <imagen>asia.jpg</imagen>
         <anyo>1977</anyo>
         <casos>1258</casos>
         <muertes>26</muertes>
@@ -631,7 +562,6 @@
 
     <continente>
         <nombre>Asia</nombre>
-        <imagen>asia.jpg</imagen>
         <anyo>1978</anyo>
         <casos>485</casos>
         <muertes>14</muertes>
@@ -640,7 +570,6 @@
 
     <continente>
         <nombre>Asia</nombre>
-        <imagen>asia.jpg</imagen>
         <anyo>1979</anyo>
         <casos>387</casos>
         <muertes>16</muertes>
@@ -649,7 +578,6 @@
 
     <continente>
         <nombre>Asia</nombre>
-        <imagen>asia.jpg</imagen>
         <anyo>1980</anyo>
         <casos>285</casos>
         <muertes>29</muertes>
@@ -658,7 +586,6 @@
 
     <continente>
         <nombre>Asia</nombre>
-        <imagen>asia.jpg</imagen>
         <anyo>1981</anyo>
         <casos>13</casos>
         <muertes>0</muertes>
@@ -667,7 +594,6 @@
 
     <continente>
         <nombre>Asia</nombre>
-        <imagen>asia.jpg</imagen>
         <anyo>1982</anyo>
         <casos>281</casos>
         <muertes>1</muertes>
@@ -676,7 +602,6 @@
 
     <continente>
         <nombre>Asia</nombre>
-        <imagen>asia.jpg</imagen>
         <anyo>1983</anyo>
         <casos>248</casos>
         <muertes>21</muertes>
@@ -685,7 +610,6 @@
 
     <continente>
         <nombre>Asia</nombre>
-        <imagen>asia.jpg</imagen>
         <anyo>1984</anyo>
         <casos>206</casos>
         <muertes>6</muertes>
@@ -694,7 +618,6 @@
 
     <continente>
         <nombre>Asia</nombre>
-        <imagen>asia.jpg</imagen>
         <anyo>1985</anyo>
         <casos>179</casos>
         <muertes>8</muertes>
@@ -703,7 +626,6 @@
 
     <continente>
         <nombre>Asia</nombre>
-        <imagen>asia.jpg</imagen>
         <anyo>1986</anyo>
         <casos>118</casos>
         <muertes>6</muertes>
@@ -712,7 +634,6 @@
 
     <continente>
         <nombre>Asia</nombre>
-        <imagen>asia.jpg</imagen>
         <anyo>1987</anyo>
         <casos>119</casos>
         <muertes>8</muertes>
@@ -721,7 +642,6 @@
 
     <continente>
         <nombre>Asia</nombre>
-        <imagen>asia.jpg</imagen>
         <anyo>1988</anyo>
         <casos>210</casos>
         <muertes>10</muertes>
@@ -730,7 +650,6 @@
 
     <continente>
         <nombre>Asia</nombre>
-        <imagen>asia.jpg</imagen>
         <anyo>1989</anyo>
         <casos>425</casos>
         <muertes>49</muertes>
@@ -739,7 +658,6 @@
 
     <continente>
         <nombre>Asia</nombre>
-        <imagen>asia.jpg</imagen>
         <anyo>1990</anyo>
         <casos>505</casos>
         <muertes>29</muertes>
@@ -748,7 +666,6 @@
 
     <continente>
         <nombre>Asia</nombre>
-        <imagen>asia.jpg</imagen>
         <anyo>1991</anyo>
         <casos>227</casos>
         <muertes>15</muertes>
@@ -757,7 +674,6 @@
 
     <continente>
         <nombre>Asia</nombre>
-        <imagen>asia.jpg</imagen>
         <anyo>1992</anyo>
         <casos>1012</casos>
         <muertes>30</muertes>
@@ -766,7 +682,6 @@
 
     <continente>
         <nombre>Asia</nombre>
-        <imagen>asia.jpg</imagen>
         <anyo>1993</anyo>
         <casos>605</casos>
         <muertes>28</muertes>
@@ -775,7 +690,6 @@
 
     <continente>
         <nombre>Asia</nombre>
-        <imagen>asia.jpg</imagen>
         <anyo>1994</anyo>
         <casos>1228</casos>
         <muertes>85</muertes>
@@ -784,7 +698,6 @@
 
     <continente>
         <nombre>Asia</nombre>
-        <imagen>asia.jpg</imagen>
         <anyo>1995</anyo>
         <casos>186</casos>
         <muertes>11</muertes>
@@ -793,7 +706,6 @@
 
     <continente>
         <nombre>Asia</nombre>
-        <imagen>asia.jpg</imagen>
         <anyo>1996</anyo>
         <casos>386</casos>
         <muertes>26</muertes>
@@ -802,7 +714,6 @@
 
     <continente>
         <nombre>Asia</nombre>
-        <imagen>asia.jpg</imagen>
         <anyo>1997</anyo>
         <casos>274</casos>
         <muertes>12</muertes>
@@ -811,7 +722,6 @@
 
     <continente>
         <nombre>Asia</nombre>
-        <imagen>asia.jpg</imagen>
         <anyo>1998</anyo>
         <casos>8</casos>
         <muertes>5</muertes>
@@ -822,7 +732,6 @@
 
     <continente>
         <nombre>America</nombre>
-        <imagen>americas.jpg</imagen>
         <anyo>1954</anyo>
         <casos>171</casos>
         <muertes>0</muertes>
@@ -831,7 +740,6 @@
 
     <continente>
         <nombre>America</nombre>
-        <imagen>americas.jpg</imagen>
         <anyo>1955</anyo>
         <casos>171</casos>
         <muertes>91</muertes>
@@ -840,7 +748,6 @@
 
     <continente>
         <nombre>America</nombre>
-        <imagen>americas.jpg</imagen>
         <anyo>1956</anyo>
         <casos>115</casos>
         <muertes>0</muertes>
@@ -849,7 +756,6 @@
 
     <continente>
         <nombre>America</nombre>
-        <imagen>americas.jpg</imagen>
         <anyo>1957</anyo>
         <casos>154</casos>
         <muertes>0</muertes>
@@ -858,7 +764,6 @@
 
     <continente>
         <nombre>America</nombre>
-        <imagen>americas.jpg</imagen>
         <anyo>1958</anyo>
         <casos>98</casos>
         <muertes>0</muertes>
@@ -867,7 +772,6 @@
 
     <continente>
         <nombre>America</nombre>
-        <imagen>americas.jpg</imagen>
         <anyo>1959</anyo>
         <casos>93</casos>
         <muertes>0</muertes>
@@ -876,7 +780,6 @@
 
     <continente>
         <nombre>America</nombre>
-        <imagen>americas.jpg</imagen>
         <anyo>1960</anyo>
         <casos>258</casos>
         <muertes>0</muertes>
@@ -885,7 +788,6 @@
 
     <continente>
         <nombre>America</nombre>
-        <imagen>americas.jpg</imagen>
         <anyo>1961</anyo>
         <casos>343</casos>
         <muertes>40</muertes>
@@ -894,7 +796,6 @@
 
     <continente>
         <nombre>America</nombre>
-        <imagen>americas.jpg</imagen>
         <anyo>1962</anyo>
         <casos>527</casos>
         <muertes>44</muertes>
@@ -903,7 +804,6 @@
 
     <continente>
         <nombre>America</nombre>
-        <imagen>americas.jpg</imagen>
         <anyo>1963</anyo>
         <casos>424</casos>
         <muertes>54</muertes>
@@ -912,7 +812,6 @@
 
     <continente>
         <nombre>America</nombre>
-        <imagen>americas.jpg</imagen>
         <anyo>1964</anyo>
         <casos>653</casos>
         <muertes>42</muertes>
@@ -921,7 +820,6 @@
 
     <continente>
         <nombre>America</nombre>
-        <imagen>americas.jpg</imagen>
         <anyo>1965</anyo>
         <casos>841</casos>
         <muertes>26</muertes>
@@ -930,7 +828,6 @@
 
     <continente>
         <nombre>America</nombre>
-        <imagen>americas.jpg</imagen>
         <anyo>1966</anyo>
         <casos>889</casos>
         <muertes>54</muertes>
@@ -939,7 +836,6 @@
 
     <continente>
         <nombre>America</nombre>
-        <imagen>americas.jpg</imagen>
         <anyo>1967</anyo>
         <casos>223</casos>
         <muertes>14</muertes>
@@ -948,7 +844,6 @@
 
     <continente>
         <nombre>America</nombre>
-        <imagen>americas.jpg</imagen>
         <anyo>1968</anyo>
         <casos>387</casos>
         <muertes>33</muertes>
@@ -957,7 +852,6 @@
 
     <continente>
         <nombre>America</nombre>
-        <imagen>americas.jpg</imagen>
         <anyo>1969</anyo>
         <casos>424</casos>
         <muertes>30</muertes>
@@ -966,7 +860,6 @@
 
     <continente>
         <nombre>America</nombre>
-        <imagen>americas.jpg</imagen>
         <anyo>1970</anyo>
         <casos>326</casos>
         <muertes>19</muertes>
@@ -975,7 +868,6 @@
 
     <continente>
         <nombre>America</nombre>
-        <imagen>americas.jpg</imagen>
         <anyo>1971</anyo>
         <casos>216</casos>
         <muertes>10</muertes>
@@ -984,7 +876,6 @@
 
     <continente>
         <nombre>America</nombre>
-        <imagen>americas.jpg</imagen>
         <anyo>1972</anyo>
         <casos>297</casos>
         <muertes>28</muertes>
@@ -993,7 +884,6 @@
 
     <continente>
         <nombre>America</nombre>
-        <imagen>americas.jpg</imagen>
         <anyo>1973</anyo>
         <casos>185</casos>
         <muertes>3</muertes>
@@ -1002,7 +892,6 @@
 
     <continente>
         <nombre>America</nombre>
-        <imagen>americas.jpg</imagen>
         <anyo>1974</anyo>
         <casos>321</casos>
         <muertes>8</muertes>
@@ -1011,7 +900,6 @@
 
     <continente>
         <nombre>America</nombre>
-        <imagen>americas.jpg</imagen>
         <anyo>1975</anyo>
         <casos>521</casos>
         <muertes>9</muertes>
@@ -1020,7 +908,6 @@
 
     <continente>
         <nombre>America</nombre>
-        <imagen>americas.jpg</imagen>
         <anyo>1976</anyo>
         <casos>146</casos>
         <muertes>9</muertes>
@@ -1029,7 +916,6 @@
 
     <continente>
         <nombre>America</nombre>
-        <imagen>americas.jpg</imagen>
         <anyo>1977</anyo>
         <casos>48</casos>
         <muertes>11</muertes>
@@ -1038,7 +924,6 @@
 
     <continente>
         <nombre>America</nombre>
-        <imagen>americas.jpg</imagen>
         <anyo>1978</anyo>
         <casos>97</casos>
         <muertes>5</muertes>
@@ -1047,7 +932,6 @@
 
     <continente>
         <nombre>America</nombre>
-        <imagen>americas.jpg</imagen>
         <anyo>1979</anyo>
         <casos>23</casos>
         <muertes>2</muertes>
@@ -1056,7 +940,6 @@
 
     <continente>
         <nombre>America</nombre>
-        <imagen>americas.jpg</imagen>
         <anyo>1980</anyo>
         <casos>142</casos>
         <muertes>7</muertes>
@@ -1065,7 +948,6 @@
 
     <continente>
         <nombre>America</nombre>
-        <imagen>americas.jpg</imagen>
         <anyo>1981</anyo>
         <casos>128</casos>
         <muertes>12</muertes>
@@ -1074,7 +956,6 @@
 
     <continente>
         <nombre>America</nombre>
-        <imagen>americas.jpg</imagen>
         <anyo>1982</anyo>
         <casos>182</casos>
         <muertes>4</muertes>
@@ -1083,7 +964,6 @@
 
     <continente>
         <nombre>America</nombre>
-        <imagen>americas.jpg</imagen>
         <anyo>1983</anyo>
         <casos>225</casos>
         <muertes>12</muertes>
@@ -1092,7 +972,6 @@
 
     <continente>
         <nombre>America</nombre>
-        <imagen>americas.jpg</imagen>
         <anyo>1984</anyo>
         <casos>500</casos>
         <muertes>42</muertes>
@@ -1101,7 +980,6 @@
 
     <continente>
         <nombre>America</nombre>
-        <imagen>americas.jpg</imagen>
         <anyo>1985</anyo>
         <casos>128</casos>
         <muertes>9</muertes>
@@ -1110,7 +988,6 @@
 
     <continente>
         <nombre>America</nombre>
-        <imagen>americas.jpg</imagen>
         <anyo>1986</anyo>
         <casos>162</casos>
         <muertes>19</muertes>
@@ -1119,7 +996,6 @@
 
     <continente>
         <nombre>America</nombre>
-        <imagen>americas.jpg</imagen>
         <anyo>1987</anyo>
         <casos>88</casos>
         <muertes>9</muertes>
@@ -1128,7 +1004,6 @@
 
     <continente>
         <nombre>America</nombre>
-        <imagen>americas.jpg</imagen>
         <anyo>1988</anyo>
         <casos>52</casos>
         <muertes>5</muertes>
@@ -1137,7 +1012,6 @@
 
     <continente>
         <nombre>America</nombre>
-        <imagen>americas.jpg</imagen>
         <anyo>1989</anyo>
         <casos>30</casos>
         <muertes>0</muertes>
@@ -1146,7 +1020,6 @@
 
     <continente>
         <nombre>America</nombre>
-        <imagen>americas.jpg</imagen>
         <anyo>1990</anyo>
         <casos>48</casos>
         <muertes>6</muertes>
@@ -1155,7 +1028,6 @@
 
     <continente>
         <nombre>America</nombre>
-        <imagen>americas.jpg</imagen>
         <anyo>1991</anyo>
         <casos>21</casos>
         <muertes>0</muertes>
@@ -1164,7 +1036,6 @@
 
     <continente>
         <nombre>America</nombre>
-        <imagen>americas.jpg</imagen>
         <anyo>1992</anyo>
         <casos>158</casos>
         <muertes>6</muertes>
@@ -1173,7 +1044,6 @@
 
     <continente>
         <nombre>America</nombre>
-        <imagen>americas.jpg</imagen>
         <anyo>1993</anyo>
         <casos>621</casos>
         <muertes>32</muertes>
@@ -1182,7 +1052,6 @@
 
     <continente>
         <nombre>America</nombre>
-        <imagen>americas.jpg</imagen>
         <anyo>1994</anyo>
         <casos>438</casos>
         <muertes>21</muertes>
@@ -1191,7 +1060,6 @@
 
     <continente>
         <nombre>America</nombre>
-        <imagen>americas.jpg</imagen>
         <anyo>1995</anyo>
         <casos>115</casos>
         <muertes>3</muertes>
@@ -1200,7 +1068,6 @@
 
     <continente>
         <nombre>America</nombre>
-        <imagen>americas.jpg</imagen>
         <anyo>1996</anyo>
         <casos>55</casos>
         <muertes>6</muertes>
@@ -1209,7 +1076,6 @@
 
     <continente>
         <nombre>America</nombre>
-        <imagen>americas.jpg</imagen>
         <anyo>1997</anyo>
         <casos>44</casos>
         <muertes>1</muertes>
@@ -1218,7 +1084,6 @@
 
     <continente>
         <nombre>America</nombre>
-        <imagen>americas.jpg</imagen>
         <anyo>1998</anyo>
         <casos>27</casos>
         <muertes>11</muertes>
