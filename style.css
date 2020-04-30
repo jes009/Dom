@@ -3,11 +3,8 @@
 display:none;
 }
 /* No añadir bajo ningun concento en mostra BLOCK deformara la tabla * --Joaquin */
-.mostratabla{
-display:table-row;
-}
 .mostra{
-display: block;
+display:;
 }
 
 table { 
