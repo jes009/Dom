@@ -15,12 +15,37 @@
 <body>
 
 <!-- Cambiar el idioma de los contenidos -->
-<div>
-	<select id="selection" onchange="idioma();">
- 		<option value="Valenciano">Valenciano</option>
-		<option value="Castellano">Castellano</option>
-	</select>
+
+<div id="contenedor">
+       
+        <div id="cabecera">
+           
+		   <div id="arriba">
+
+              <a href="index.xml"> <img  src="img/virus.png" class="imagen" alt="Botón"/> </a> <!-- cambiar imagenc -->
+
+            </div>
+
+			<div id="registrar">
+				<p> Selecione el idioma: 
+					<select id="selection" onchange="idioma();">
+ 							<option value="Valenciano">Valenciano</option>
+							<option value="Castellano">Castellano</option>
+					</select>
+				</p>
+			</div>
+			
+			<div id="titulo">
+
+                <h1>Las epidemias en la segunda mitad del Siglo XX</h1>
+
+			</div>
+
+
+		</div>
 </div>
+
+
 
 
 <!-- Cadena de texto a buscar... -->
