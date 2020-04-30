@@ -44,23 +44,15 @@ td, th {
    color:black;
 }
 
-#home{
-    float: left;
-
-}
 
 #registrar{
     float: right;
     margin-right: 1%;
 }
 
-.imagen{
-  width: 5%;
-  height:auto;
-}
 
 #titulo{
-    margin-left: 40%;
+    text-align: center;
     line-height: 8px;
 }
 
