@@ -22,7 +22,7 @@
            
 		   <div id="arriba">
 
-              <a href="index.xml"> <img  src="img/virus.png" class="imagen" alt="Botón"/> </a> <!-- cambiar imagenc -->
+              <a href="index.xml"> <img  src="img/boton.png" class="imagen" alt="Botón"/> </a> <!-- cambiar imagenc -->
 
             </div>
 
