@@ -40,10 +40,10 @@
 
 
 <!-- Tabla en Valenciano -->
-<div id="tablavl" class="Valenciano">
-	<table>
+<div class="Valenciano">
+	<table id="tablavl">
 		<tr>
-   			<th>Nombre</th>
+   			<th>Nom</th>
 			<th>Any</th>
 			<th>Cas</th>
 			<th>Morts</th>
@@ -54,8 +54,8 @@
 </div>
 
 <!-- Tabla en Castellano -->
-<div id="tablasp" class="Castellano">
-	<table>
+<div class="Castellano">
+	<table id="tablasp">
 		<tr>
    			<th>Nombre</th>
 			<th>Anyo</th>
@@ -73,7 +73,7 @@
 
 <!-- Seleccionar el nodo "continente" y aplicar las plantillas para cada sección -->
 <xsl:template match="continente">
-<tr>
+<tr class="lista">
 	<xsl:apply-templates select="nombre"/>
 	<xsl:apply-templates select="anyo"/>
 	<xsl:apply-templates select="casos"/>
