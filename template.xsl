@@ -25,7 +25,7 @@
 
 <!-- Cadena de texto a buscar... -->
 <div>
-	Busca<input type="text" id="miBusqueda" />
+	Busca <input type="text" id="miBusqueda" />
 </div>
 
 <!-- Buscara en la tabla con Idioma en Valenciano -->
