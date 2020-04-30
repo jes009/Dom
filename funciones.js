@@ -119,12 +119,9 @@
 var elementoSeleccion = document.getElementById('selection');
 // selecciona el valor de la seleccion
 var selectedValue = elementoSeleccion.options[elementoSeleccion.selectedIndex].value;
-//muestra el valor de la seleccion
-alert(selectedValue);
-
 // estructura if para cambiar los valores
 if (selectedValue == 'Valenciano') {
-   alert("vamos a cambiar las clases a Valenciano para mostrarlas");
+   alert("Cambiando idioma a Valenciano");
    /*Buscamos los elementos que en la clase incluyan "Valenciano" !Importante declaramos
     fuera del for porque no lo identifica */
    var elementosValenciano = document.getElementsByClassName("Valenciano");
@@ -145,7 +142,7 @@ elementosCastellano[i].setAttribute("class","Castellano oculta");
 
 
 } else {
-   alert("vamos a cambiar las clases a Castellano");
+   alert("Cambiando idioma a Castellano");
      /*Buscamos los elementos que en la clase incluyan "Castellano" !Importante declaramos
     fuera del for porque no lo identifica */
    var elementosCastellano = document.getElementsByClassName("Castellano");
