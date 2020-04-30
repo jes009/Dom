@@ -4,9 +4,11 @@ display:none;
 }
 /* No añadir bajo ningun concento en mostra BLOCK deformara la tabla * --Joaquin */
 .mostra{
-display:;
+display:block;
 }
-
+.mostratabla{
+	display:table-row;
+}
 table { 
   width: 100%; 
   border-collapse: collapse; 
