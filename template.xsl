@@ -134,12 +134,12 @@
 <div id="footer">
     
 <a href="https://www.who.int/csr/resources/publications/surveillance/plague.pdf">
-    <p class="Valenciano">Dades extretes de l'OMS></p>
+    <p class="Valenciano">Dades extretes de l'OMS</p>
     <p class="Castellano oculta">Datos extraídos de la OMS</p>
     </a>
 
 
-    
+
     <div class="right">
     	<p>
     <a href="http://jigsaw.w3.org/css-validator/check/referer">
