@@ -68,6 +68,13 @@
 
 <h2 class="Castellano oculta">Las epidemias en los continentes en vias de desarrollo</h2>
 
+<!-- Parrafo Siglo XX -->
+
+<p class="Valenciano">Chirstian aqui pon cosas en valenciano</p>
+
+<p class="Castellano oculta">Y aqui en español</p>
+
+
 
 
 <!-- Cadena de texto a buscar... -->
