@@ -76,13 +76,15 @@
 
 <!-- Parrafo Siglo XX -->
 
-<p class="Valenciano">A la segona meitat de segle XX destaquen 7 pandèmies, com la grip asiàtica en els anys 50 que va matar a 2 milions de persones. Una altra pandèmia que hi va haver era la grip de Hong Kong, que va matar aproximadament a uns 2 milions de persones.</p>
+<p class="Valenciano">A la segona meitat de segle XX destaquen 7 pandèmies, com la grip asiàtica en els anys 50 que va matar a 2 milions de persones. Una altra pandèmia que hi va haver era la grip de Hong Kong, que va matar aproximadament a uns 2 milions de persones. A la dècada dels 70 es van donar els primers casos de l'ebola a l'Àfrica i la sida, que van tenir uns 2830 i 1 milió de morts, respectivament. Des de 1991 a 1993 es va donar la pandèmia de còlera a America Llatina que afecte a gairebé 1 milió de persones causant unes 8000 víctimes mortals.</p>
 
-<p class="Castellano oculta">En la segunda mitad del siglo XX destacan 7 pandemias, como la gripe asiatica en los años 50 que mató a 2 millones de personas. Otra pandemia que hubo era la gripe de Hong Kong, que mató a aproximadamente a unos 2 millones de personas.</p>
+<p class="Castellano oculta">En la segunda mitad del siglo XX destacan 7 pandemias, como la gripe asiatica en los años 50 que mató a 2 millones de personas. Otra pandemia que hubo era la gripe de Hong Kong, que mató a aproximadamente a unos 2 millones de personas. En la década de los 70 se dieron los primeros casos del ébola en Africa y el sida, que tuvieron unos 2830 y 1 millón de muertes, respectivamente. Desde 1991 a 1993 se dio la pandemia del cólera en America Latina que afecto a casi 1 millón de personas causando unas 8000 víctimas mortales. </p>
 
+<!-- Parrafo Tabla Siglo XX -->
 
+<p class="Valenciano">A continuació hi ha una taula amb els casos, les morts i la taxa de mortalitat de les pandèmies en els continents en vies de desenvolupament. Utilitzi la hrramienta de cerca per buscar per any, continent, etc.</p>
 
-
+<p class="Castellano oculta">A continuación hay una tabla con los casos, los fallecimientos y la tasa de mortalidad de las pandemias en los continentes en vias de desarrollo. Utilize la hrramienta de busqueda para buscar por año, continente, etc.</p>
 
 <!-- Cadena de texto a buscar... -->
 <div>
