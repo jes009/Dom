@@ -76,9 +76,10 @@
 
 <!-- Parrafo Siglo XX -->
 
-<p class="Valenciano">Chirstian aqui pon cosas en valenciano</p>
+<p class="Valenciano">A la segona meitat de segle XX destaquen 7 pandèmies, com la grip asiàtica en els anys 50 que va matar a 2 milions de persones. Una altra pandèmia que hi va haver era la grip de Hong Kong, que va matar aproximadament a uns 2 milions de persones.</p>
 
-<p class="Castellano oculta">En la segunda mitad del siglo XX destacan 7 pandemias, como la gripe asiatica en los años 50 que mato a 2 millones de personas. Otra</p>
+<p class="Castellano oculta">En la segunda mitad del siglo XX destacan 7 pandemias, como la gripe asiatica en los años 50 que mató a 2 millones de personas. Otra pandemia que hubo era la gripe de Hong Kong, que mató a aproximadamente a unos 2 millones de personas.</p>
+
 
 
 
