@@ -70,3 +70,10 @@ p{
   text-align: justify;
 }
 
+#footer { height:92px;color:#6d6d6d; }
+#footer .shell{ padding-top:28px;}
+#footer .right { white-space:nowrap; font-size:14px; text-align: right;}
+#footer .right span{ padding:0 1px;}
+#footer .right a{ text-decoration: none; color:#939393;}
+#footer .right a:hover{ color:#f6cb44;}
+.footer-logo { float:left; width:169px; height:34px; }
