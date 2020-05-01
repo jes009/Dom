@@ -45,9 +45,9 @@
 </div>
 
 <!-- Parrafo introductorio -->
-
+<h2 class="Valenciano">Què és una pandèmia?</h2>
 <p class="Valenciano">Una pandèmia es produeix quan una malaltia contagiosa es propaga ràpidament en una població determinada, afectant a un gran nombre de persones durant un període de temps concret. Si el brot afecta regions geogràfiques extenses (per exemple, diversos continents) es cataloga com a pandèmia; tal és el cas de VIH. En cas de propagació descontrolada, una epidèmia pot col·lapsar un sistema de salut, tal com en 2014 amb el brot de Ébola a l'Àfrica occidental.</p>
-
+<h2 class="Castellano oculta">¿Qué es una pandemia?</h2>
 <p class="Castellano oculta">Una pandemia se produce cuando una enfermedad contagiosa se propaga rápidamente en una población determinada, afectando simultáneamente a un gran número de personas durante un periodo de tiempo concreto. Si el brote afecta a regiones geográficas extensas (por ejemplo, varios continentes) se cataloga como pandemia; tal es el caso del VIH. En caso de propagación descontrolada, una epidemia puede colapsar un sistema de salud, como ocurrió en 2014 con el brote de Ébola en África occidental.</p>
 
 <!-- Header evolucion -->
