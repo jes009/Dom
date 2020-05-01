@@ -70,6 +70,8 @@ p{
   text-align: justify;
 }
 
+a { color: #4DBBFF; }
+
 #footer { height:92px;color:#6d6d6d; }
 #footer .shell{ padding-top:28px;}
 #footer .right { white-space:nowrap; font-size:14px; text-align: right;}
