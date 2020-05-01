@@ -62,6 +62,7 @@
 
 <p class="Castellano oculta"> A lo largo de la historia han habido muchos pandemias que han afectado a gran cantidad de población. Esto se debe a que a medida que la población mundial fue creciendo, cuando una enfermedad se extendía y afectaba a varias regiones del planeta, convirtiéndose en una amenaza para la población, se empezaron a documentar las primeras pandemias.  Estas pandemias en ocasiones transformaron las sociedades en las que aparecieron y, muy posiblemente, han cambiado o influido decisivamente en el curso de la historia.</p>
 
+<p><img src="img/pandemia.jpg" width="30%" height="15%" alt="imagen pandemia gripe española"/></p>
 <!-- Parrafo historia 2 -->
 
 <p class="Valenciano">Entre les més importants hi ha la <strong>Pesta Negra</strong>, Que es va donar en la Edat Mitjana, a mitjans de segle XIV, que va matar a 200 milions de persones o gairebé la tercera part de Europa en la època. Un de les pandèmies més recents és el VIH (Virus de Immunodeficiència Humana), que es va donar en els anys 80 de segle XX, que afectava majoritàriament als països en vies de desenvolupament i subdesenvolupats.</p>
