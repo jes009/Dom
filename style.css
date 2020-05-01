@@ -79,3 +79,12 @@ a { color: #4DBBFF; }
 #footer .right a{ text-decoration: none; color:#939393;}
 #footer .right a:hover{ color:#f6cb44;}
 .footer-logo { float:left; width:169px; height:34px; }
+
+.imagen{
+float: right;
+  margin-top: 3%;
+  margin-left: 3%;
+  margin-right: 4%;
+
+
+}
