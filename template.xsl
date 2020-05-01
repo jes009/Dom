@@ -122,7 +122,18 @@
 		<xsl:apply-templates/>
 	</table>
 </div>
-
+<div id="footer">
+    ...
+    <div class="right">
+    	<p>
+    <a href="http://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="http://jigsaw.w3.org/css-validator/images/vcss"
+            alt="¡CSS Válido!" />
+    </a>
+</p>
+    </div>
+  </div>
 </body>
 </html>
 </xsl:template>
