@@ -92,11 +92,10 @@
 	<input type="button" value="Buscar" class="Castellano oculta" onclick="SearchSp();" />
 </div>
 
-<br/>
-
 
 <!-- Tabla en Valenciano -->
 <div class="Valenciano">
+	<br/>
 	<table id="tablavl">
 		<tr>
    			<th>Nom</th>
@@ -111,6 +110,7 @@
 
 <!-- Tabla en Castellano -->
 <div class="Castellano oculta">
+	<br/>
 	<table id="tablasp">
 		<tr>
    			<th>Nombre</th>
