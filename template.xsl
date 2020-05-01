@@ -56,11 +56,17 @@
 
 <h2 class="Castellano oculta">Evolución de las epidemias a lo largo de la historia</h2>
 
-<!-- Parrafo historia -->
+<!-- Parrafo historia 1 -->
 
 <p class="Valenciano">Chirstian aqui pon cosas en valenciano</p>
 
-<p class="Castellano oculta">Y aqui en español</p>
+<p class="Castellano oculta">A lo largo de la historia han habido muchas epidemias, desde la peste de Atenas en plena guerra del Peloponeso hasta el cólera, el tifus o la malaria, muchas han sido las epidemias, endemias y pandemias que han asolado a los distintos pueblos a lo largo de la historia.</p>
+
+<!-- Parrafo historia 2 -->
+
+<p class="Valenciano">Entre les més importants hi ha la <strong>Pesta Negra</strong>, Que es va donar en la Edat Mitjana, a mitjans de segle XIV, que va matar a 200 milions de persones o gairebé la tercera part de Europa en la època. Un de les pandèmies més recents és el VIH (Virus de Immunodeficiència Humana), que es va donar en els anys 80 de segle XX, que afectava majoritàriament als països en vies de desenvolupament i subdesenvolupats.</p>
+
+<p class="Castellano oculta">Entre las más importantes se encuentra la <strong>Peste Negra</strong>, que se dio en la Edad Media, a mediados del siglo XIV, que mato a 200 millones de personas o casi la tercera parte de Europa en la época. Uno de las pandemias mas recientes es el VIH (Virus de Inmunodeficíencia Humana), que se dio en los años 80 del siglo XX, que afectaba a mayoritariamente a los paises en vias de desarrollo y subdesarrollados.</p>
 
 <!-- Header siglo XX -->
 
