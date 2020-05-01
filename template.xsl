@@ -104,7 +104,7 @@
 			<th>Morts</th>
 			<th>Tasa Mortalitat</th>
 		</tr>
-		<xsl:apply-templates select="continente"/>
+		<xsl:apply-templates/>
 	</table>
 </div>
 
@@ -119,7 +119,7 @@
 			<th>Muertes</th>
 			<th>Tasa Mortalidad</th>
 		</tr>
-		<xsl:apply-templates select="continente"/>
+		<xsl:apply-templates/>
 	</table>
 </div>
 <div id="footer">
