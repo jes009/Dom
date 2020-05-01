@@ -33,8 +33,8 @@
 			
 			<div id="titulo">
 
-                <h1 class="Valenciano">Les epidemies en la segona meitat de el Segle XX</h1>
-                <h1 class="Castellano oculta">Las epidemias en la segunda mitad del Siglo XX</h1>
+                <h1 class="Valenciano">Les pandèmies en la segona meitat de el Segle XX</h1>
+                <h1 class="Castellano oculta">Las pandemias en la segunda mitad del Siglo XX</h1>
 
 
 
@@ -46,21 +46,21 @@
 
 <!-- Parrafo introductorio -->
 
-<p class="Valenciano">Una epidèmia es produeix quan una malaltia contagiosa es propaga ràpidament en una població determinada, afectant a un gran nombre de persones durant un període de temps concret. Si el brot afecta regions geogràfiques extenses (per exemple, diversos continents) es cataloga com a pandèmia; tal és el cas de VIH. En cas de propagació descontrolada, una epidèmia pot col·lapsar un sistema de salut, tal com en 2014 amb el brot de Ébola a l'Àfrica occidental.</p>
+<p class="Valenciano">Una pandèmia es produeix quan una malaltia contagiosa es propaga ràpidament en una població determinada, afectant a un gran nombre de persones durant un període de temps concret. Si el brot afecta regions geogràfiques extenses (per exemple, diversos continents) es cataloga com a pandèmia; tal és el cas de VIH. En cas de propagació descontrolada, una epidèmia pot col·lapsar un sistema de salut, tal com en 2014 amb el brot de Ébola a l'Àfrica occidental.</p>
 
-<p class="Castellano oculta">Una epidemia se produce cuando una enfermedad contagiosa se propaga rápidamente en una población determinada, afectando simultáneamente a un gran número de personas durante un periodo de tiempo concreto. Si el brote afecta a regiones geográficas extensas (por ejemplo, varios continentes) se cataloga como pandemia; tal es el caso del VIH. En caso de propagación descontrolada, una epidemia puede colapsar un sistema de salud, como ocurrió en 2014 con el brote de Ébola en África occidental.</p>
+<p class="Castellano oculta">Una pandemia se produce cuando una enfermedad contagiosa se propaga rápidamente en una población determinada, afectando simultáneamente a un gran número de personas durante un periodo de tiempo concreto. Si el brote afecta a regiones geográficas extensas (por ejemplo, varios continentes) se cataloga como pandemia; tal es el caso del VIH. En caso de propagación descontrolada, una epidemia puede colapsar un sistema de salud, como ocurrió en 2014 con el brote de Ébola en África occidental.</p>
 
 <!-- Header evolucion -->
 
-<h2 class="Valenciano">Evolució de les epidèmies al llarg de la història</h2>
+<h2 class="Valenciano">Evolució de les pandèmies al llarg de la història</h2>
 
-<h2 class="Castellano oculta">Evolución de las epidemias a lo largo de la historia</h2>
+<h2 class="Castellano oculta">Evolución de las pandemias a lo largo de la historia</h2>
 
 <!-- Parrafo historia 1 -->
 
-<p class="Valenciano">Chirstian aqui pon cosas en valenciano</p>
+<p class="Valenciano">Al llarg de la història han hagut molts pandèmies que han afectat a gran quantitat de població. Això es deu al fet que a mesura que la població mundial va anar creixent, quan una malaltia s'estenia i afectava a diverses regions de la planeta, convertint-se en una amenaça per a la població, es van començar a documentar les primeres pandèmies. Aquestes pandèmies en ocasions van transformar les societats en què van aparèixer i, molt possiblement, han canviat o influït decisivament en el curs de la història.</p>
 
-<p class="Castellano oculta">A lo largo de la historia han habido muchas epidemias, desde la peste de Atenas en plena guerra del Peloponeso hasta el cólera, el tifus o la malaria, muchas han sido las epidemias, endemias y pandemias que han asolado a los distintos pueblos a lo largo de la historia.</p>
+<p class="Castellano oculta"> A lo largo de la historia han habido muchos pandemias que han afectado a gran cantidad de población. Esto se debe a que a medida que la población mundial fue creciendo, cuando una enfermedad se extendía y afectaba a varias regiones del planeta, convirtiéndose en una amenaza para la población, se empezaron a documentar las primeras pandemias.  Estas pandemias en ocasiones transformaron las sociedades en las que aparecieron y, muy posiblemente, han cambiado o influido decisivamente en el curso de la historia.</p>
 
 <!-- Parrafo historia 2 -->
 
@@ -70,15 +70,15 @@
 
 <!-- Header siglo XX -->
 
-<h2 class="Valenciano">Les epidemies en els continents en vies de desenvolupament</h2>
+<h2 class="Valenciano">Les pandèmies en els continents en vies de desenvolupament</h2>
 
-<h2 class="Castellano oculta">Las epidemias en los continentes en vias de desarrollo</h2>
+<h2 class="Castellano oculta">Las pandemias en los continentes en vias de desarrollo</h2>
 
 <!-- Parrafo Siglo XX -->
 
 <p class="Valenciano">Chirstian aqui pon cosas en valenciano</p>
 
-<p class="Castellano oculta">Y aqui en español</p>
+<p class="Castellano oculta">En la segunda mitad del siglo XX destacan 7 pandemias, como la gripe asiatica en los años 50 que mato a 2 millones de personas. Otra</p>
 
 
 
@@ -137,9 +137,6 @@
             src="http://jigsaw.w3.org/css-validator/images/vcss"
             alt="¡CSS Válido!" />
     </a>
-
-    <a href="http://validator.w3.org/check?uri=referer"><img
-      src="http://www.w3.org/Icons/valid-xhtml11" alt="Valid XHTML 1.1" height="31" width="88" /></a>
 </p>
     </div>
   </div>
