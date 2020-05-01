@@ -1,0 +1,3 @@
+Alex --> XML + CSS (Cabecera, fondo de página, Ajuste de márgenes)+ xsl(añade imágenes + y párrafos 2,3,4,5)
+Joaquín --> Js + CSS (Creación estilos para coultar idioma, Tabla, imagen + logos validación) + xsl (Primer h2,logo validación y enlace de fuete de datos)
+Christian --> xsl(Conexión con xml y js)
