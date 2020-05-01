@@ -48,6 +48,7 @@ td, th {
 #registrar{
     float: right;
     margin-right: 1%;
+    font-style: italic;
 }
 
 
@@ -60,7 +61,12 @@ body{
   background-image:url(img/fondo.jpg);
   font-family: Arial, Helvetica, sans-serif;
   color:white;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 
+p{
 
+  text-align: justify;
+}
 
