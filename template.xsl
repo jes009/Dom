@@ -52,9 +52,9 @@
 
 <!-- Header evolucion -->
 
-<h2 class="Valenciano">¿Com ha evolucionat les epidèmies al llarg de la història?</h2>
+<h2 class="Valenciano">Evolució de les epidèmies al llarg de la història</h2>
 
-<h2 class="Castellano oculta">¿Como han evolucionado las epidemias a lo largo de la historia?</h2>
+<h2 class="Castellano oculta">Evolución de las epidemias a lo largo de la historia</h2>
 
 <!-- Parrafo historia -->
 
@@ -63,6 +63,10 @@
 <p class="Castellano oculta">Y aqui en español</p>
 
 <!-- Header siglo XX -->
+
+<h2 class="Valenciano">Les epidemies en els continents en vies de desenvolupament</h2>
+
+<h2 class="Castellano oculta">Las epidemias en los continentes en vias de desarrollo</h2>
 
 
 
