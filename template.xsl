@@ -131,6 +131,9 @@
             src="http://jigsaw.w3.org/css-validator/images/vcss"
             alt="¡CSS Válido!" />
     </a>
+
+    <a href="http://validator.w3.org/check?uri=referer"><img
+      src="http://www.w3.org/Icons/valid-xhtml11" alt="Valid XHTML 1.1" height="31" width="88" /></a>
 </p>
     </div>
   </div>
